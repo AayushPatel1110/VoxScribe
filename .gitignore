@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Environment variables file
+*.env
+
+# Flask cache files and sessions
+instance/
+*.pyc
+*.pyo
+*.pyd
+
+# Flask log files
+*.log
+
+# Generated output files
+output_files/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# IDE files (optional)
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
