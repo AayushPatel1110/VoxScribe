@@ -3,12 +3,10 @@
 **VoxScribe Studios** is an innovative web app, built with **Python** and **Flask**, that lets users convert PDFs to audio for hands-free listening and transcribe live speech into downloadable PDFs. The app combines convenience with technology to offer a unique way of interacting with documents.
 
 ## 🔗 Live Demo
-**Check it out here**: [VoxScribe Studios on PythonAnywhere](https://ajtechnology.pythonanywhere.com/)
+**Check it out here**: [VoxScribe Studios](https://ajtechnology.pythonanywhere.com/)
 
-## 📂 GitHub Repository
-Access the source code: [GitHub Repository](https://github.com/AayushPatel1110/VoxScribe-Studios)
+**Hosted & Configured on PythonAnywhere**
 
----
 
 ## 🚀 Key Features
 - **PDF-to-Audio Conversion**  
